@@ -1,3 +1,5 @@
+### Usage
+
 Run your uWSGI server with the stats server enabled, Ex.:
 
 uwsgi --module myapp --socket :3030 --stats /tmp/stats.socket
